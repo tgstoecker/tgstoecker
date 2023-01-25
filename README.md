@@ -1,4 +1,5 @@
-# Hello there 👋:upside_down_face:
+# Hello there <img src="https://raw.githubusercontent.com/tgstoecker/tgstoecker/master/kenobi-pog.gif" width="30px" height="30px" />
+👋:upside_down_face:
 
 <!--
 **tgstoecker/tgstoecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
