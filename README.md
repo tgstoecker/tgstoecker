@@ -41,8 +41,6 @@ You can find me on [Twitter](https://twitter.com/tgstoecker) or on [LinkedIn](ht
 ![](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
 ![](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ## 🔭 Research
 For the last five years I have performed agricultural and human genetics research and developed software for analyzing next-generation DNA/RNA sequencing data. I have worked on a diverse set of data science projects and have a particular passion for generating clean and effective graphics; especially using R Shiny to build web applications that tell interactive data stories.  
