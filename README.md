@@ -1,11 +1,14 @@
 # Hello there! 😄 <img src="https://raw.githubusercontent.com/tgstoecker/tgstoecker/master/kenobi-pog.gif" width="60px" height="60px" />
 
-Hi, my name is Tyll Stöcker and I'm a (bioinformatics) software developer and data scientist. I'm living in Germany and currently working at the University of Bonn where I am finishing my PhD in Bioinformatics.    
+Hi, my name is Tyll Stöcker and I am an IT consultant at the [Comma Soft AG](https://comma-soft.com/). I'm living in Germany and currently in the last steps of finishing my PhD in Bioinformatics/Agricultural Sciences at the University of Bonn.    
 I am always looking to connect with people in related fields and explore ideas and opportunities.  
 You can find me on [Twitter](https://twitter.com/tgstoecker) or on [LinkedIn](https://www.linkedin.com/in/tyllstoecker/).
 
-## 🔧 Technologies & Tools
 
+## 🔭 Research
+From 2019 to 2023 I performed agricultural and human genetics research and developed software for analyzing next-generation DNA/RNA sequencing data. I have worked on a diverse set of data science projects and have a particular passion for generating clean and effective graphics; especially using R Shiny to build web applications that tell interactive data stories. 
+
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-informational?style=flat&color=32393d)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) <br>
@@ -41,9 +44,7 @@ You can find me on [Twitter](https://twitter.com/tgstoecker) or on [LinkedIn](ht
 ![](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
 ![](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-
-## 🔭 Research
-For the last five years I have performed agricultural and human genetics research and developed software for analyzing next-generation DNA/RNA sequencing data. I have worked on a diverse set of data science projects and have a particular passion for generating clean and effective graphics; especially using R Shiny to build web applications that tell interactive data stories.  
+ 
 
 ## &#x1f4c8; GitHub Stats
 
