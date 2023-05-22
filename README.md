@@ -11,9 +11,11 @@ From 2019 to 2023 I performed agricultural and human genetics research and devel
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-informational?style=flat&color=32393d)
-![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) <br>
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Windows-FCC624?style=flat&logo=windows&logoColor=white) <br>
 ![](https://img.shields.io/badge/Shell-informational?style=flat&color=32393d)
-![](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) <br>
+![](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/PowerShell-4EAA25?logo=powershell&logoColor=white) <br>
 ![](https://img.shields.io/badge/Collaboration-informational?style=flat&color=32393d)
 ![](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -39,6 +41,7 @@ From 2019 to 2023 I performed agricultural and human genetics research and devel
 ![](https://img.shields.io/badge/Tools-informational?style=flat&color=32393d)
 ![](https://img.shields.io/badge/conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Azure-232F3E?style=flat&logo=microsoft%20azure&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white) <br>
 ![](https://img.shields.io/badge/Data%20Science-informational?style=flat&color=32393d)
 ![](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
