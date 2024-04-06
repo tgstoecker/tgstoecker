@@ -48,15 +48,12 @@ From 2019 to 2023 I performed agricultural and human genetics research and devel
 ![](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
  
-<!--
-## &#x1f4c8; GitHub Stats
--->
 
-<!--
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/tgstoecker/tgstoecker">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tgstoecker&hide==jupyter%20notebook&title_color=ffffff&text_color=43a428&icon_color=43a428&bg_color=1d1f21&langs_count=3" />
 </a>
--->
 
 
 <!-- 
