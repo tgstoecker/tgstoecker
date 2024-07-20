@@ -2,7 +2,7 @@
 
 Hi, my name is Tyll Stöcker and I am an IT consultant at the [Comma Soft AG](https://comma-soft.com/). I'm living in Germany and currently in the last steps of finishing my PhD in Bioinformatics/Agricultural Sciences at the University of Bonn.    
 I am always looking to connect with people in related fields and explore ideas and opportunities.  
-You can find me on [Twitter](https://twitter.com/tgstoecker) or on [LinkedIn](https://www.linkedin.com/in/tyllstoecker/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/tyllstoecker/).
 
 
 ## 🔭 Research
