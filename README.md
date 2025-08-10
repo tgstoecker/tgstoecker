@@ -1,15 +1,15 @@
 # Hello there! 😄 <img src="https://raw.githubusercontent.com/tgstoecker/tgstoecker/master/kenobi-pog.gif" width="60px" height="60px" />
 
-Hi, my name is Tyll Stöcker and I am an IT consultant at the [Comma Soft AG](https://comma-soft.com/). I'm living in Germany and currently in the last steps of finishing my PhD in Bioinformatics/Agricultural Sciences at the University of Bonn.    
+Hi, my name is Tyll and I am currently working as a IT consultant at the [Comma Soft AG](https://comma-soft.com/). Before focusing on Identity & Access Management and Digital Workplace solutions I was a research scientist at the University of Bonn (mostly doing Bioinformatics and Data Science) where I received my Doctor of Agricultural Sciences (~Ph.D.).     
+
 I am always looking to connect with people in related fields and explore ideas and opportunities.  
 You can find me on [LinkedIn](https://www.linkedin.com/in/tyllstoecker/).
 
-
 ## 🔭 Research
-From 2019 to 2023 I performed agricultural and human genetics research and developed software for analyzing next-generation DNA/RNA sequencing data. I have worked on a diverse set of data science projects and have a particular passion for generating clean and effective graphics; especially using R Shiny to build web applications that tell interactive data stories. 
+From 2019 to 2023 I performed agricultural and human genetics research. I have worked on a diverse set of data science projects and have a passion for generating clean and effective graphics / web applications. I got to work on a wide variety of research projects ranging from optimizing clinical variant calling to successfully conceptualizing & developing software to study evolutionary adaptation processes in crops to improve food security worldwide.
+The linked Repos contain some of the project code that I worked on; if you are interested in my publications, check out [my Google Scholar page](https://scholar.google.com/citations?user=kof4RW4AAAAJ&hl=de).
 
 ## 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/OS-informational?style=flat&color=32393d)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-FCC624?style=flat&logo=windows&logoColor=white) <br>
